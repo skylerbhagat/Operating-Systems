@@ -1,0 +1,3 @@
+One of the operating system's functions is to manages a computer’s resources. specifically, it manages the distribution of those resources among 
+other programs. Examples of common resources it governs are the central processing unit, computer memory, file storage, input/output 
+devices, and network connections.
